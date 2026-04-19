@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b86e6d05-b5da-4f69-baaf-f3390327b58b" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="391bIMKaKsJazKqyVQwDGIXGYLE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.Main.executor": "Debug",
+    "Application.Aggregation.Main.executor": "Debug",
+    "Application.AlarmClock.Main.executor": "Debug",
+    "Application.AnonymousClass.executor": "Debug",
+    "Application.Arethmetic_Operators.executor": "Debug",
+    "Application.Array_List.executor": "Debug",
+    "Application.Array_of_Objects.Main.executor": "Debug",
+    "Application.Arrays.executor": "Debug",
+    "Application.Audio_Player.executor": "Debug",
+    "Application.Break_Continue.executor": "Debug",
+    "Application.Composition.Main.executor": "Debug",
+    "Application.Constructor.Main.executor": "Debug",
+    "Application.Dates.executor": "Debug",
+    "Application.Dynamic_Runtime_Polimorphysm.Main.executor": "Debug",
+    "Application.Enchanced_Switches.executor": "Debug",
+    "Application.Enhanced_Switches.executor": "Debug",
+    "Application.Enter_values_in_Arrays.executor": "Debug",
+    "Application.Enum.Main.executor": "Debug",
+    "Application.Exception_Handling.executor": "Debug",
+    "Application.File_Writer.executor": "Debug",
+    "Application.Generics.Main.executor": "Debug",
+    "Application.Getter_And_Setter_Methods.Main.executor": "Debug",
+    "Application.Hangman.Main.executor": "Debug",
+    "Application.HashMaps.Main.executor": "Debug",
+    "Application.If_Statement.executor": "Debug",
+    "Application.Inheritance.Main.executor": "Debug",
+    "Application.Interface.Main.executor": "Debug",
+    "Application.Main.executor": "Debug",
+    "Application.Math_Methods.executor": "Debug",
+    "Application.Method_Overriding.Main.executor": "Debug",
+    "Application.Methods.executor": "Debug",
+    "Application.MultyDimensionArray.executor": "Debug",
+    "Application.Nested_IF.executor": "Debug",
+    "Application.Object.executor": "Debug",
+    "Application.Overloaded_Constructors.executor": "Debug",
+    "Application.Overloaded_Methods.executor": "Debug",
+    "Application.Polymorphism.Main.executor": "Debug",
+    "Application.Printf.executor": "Debug",
+    "Application.Random_Numbers.executor": "Debug",
+    "Application.ReadFile.executor": "Debug",
+    "Application.Search_in_Array.executor": "Debug",
+    "Application.Static.Main.executor": "Debug",
+    "Application.String_Methods.executor": "Debug",
+    "Application.Substring.executor": "Debug",
+    "Application.Super_Keyword.Main.executor": "Debug",
+    "Application.Threading.Multy_Threading.Main.executor": "Debug",
+    "Application.Threading.executor": "Debug",
+    "Application.TimerCountdown.executor": "Debug",
+    "Application.TimerTasks.Main.executor": "Debug",
+    "Application.VarArgs.executor": "Debug",
+    "Application.Variable_Scopes.executor": "Debug",
+    "Application.Variable_input.executor": "Debug",
+    "Application.Variables.executor": "Debug",
+    "Application.Wrapper_classes.Main.executor": "Debug",
+    "Application._Arrays.executor": "Debug",
+    "Application.logical_Operators.executor": "Debug",
+    "Application.loops.executor": "Debug",
+    "Application.toString.Main.executor": "Debug",
+    "Application.to_String.Main.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/User/Documents/CodingFiles/Java/MyFirstJavaProject/src",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\User\Documents\CodingFiles\Java\MyFirstJavaProject\src" />
+      <recent name="D:\User\Documents\CodingFiles\Java\MyFirstJavaProject\src\AlarmClock" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MyFirstJavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b86e6d05-b5da-4f69-baaf-f3390327b58b" name="Changes" comment="" />
+      <created>1769866443533</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1769866443533</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\User\Documents\CodingFiles\Java\DVDScreenSaver\out\artifacts\DVDScreenSaver_jar\DVDScreenSaver.jar</jar>
+  <outfile>D:\User\Documents\CodingFiles\Java\DVDScreenSaver\out\artifacts\DVDScreenSaver_jar\dvd.exe</outfile>
+  <errTitle>Error</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\User\Downloads\img_3.ico</icon>
+  <jre>
+    <path>C:\Program Files (x86)\Java</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+  </jre>
+</launch4jConfig>

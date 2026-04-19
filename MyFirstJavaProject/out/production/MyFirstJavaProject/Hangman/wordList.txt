@@ -1,0 +1,8 @@
+apple
+orange
+banana
+burger
+coffee
+lemon
+grape
+pizza
