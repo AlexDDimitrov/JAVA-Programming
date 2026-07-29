@@ -1,4 +1,5 @@
 package JavaOOP;
 
-public record LPASttudent() {
+public record LPAStudent(String id, String name, String dateOfBirth, String classList) {
+
 }
