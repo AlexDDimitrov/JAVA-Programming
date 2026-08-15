@@ -41,6 +41,11 @@ public class Contact {
         return name;
     }
 
+    public String getNameLastFirst() {
+        return name.substring(name.indexOf(" ") + 1) + ", " +
+                name.substring(0, name.indexOf(" "));
+    }
+
     @Override
     public String toString() {
         return "%s: %s %s".formatted(name, emails, phones);
@@ -58,9 +63,12 @@ public class Contact {
 
     @Override
     public boolean equals(Object o) {
+        if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
+
         Contact contact = (Contact) o;
-        return Objects.equals(getName(), contact.getName());
+
+        return getName().equals(contact.getName());
     }
 
     @Override
@@ -74,9 +82,9 @@ public class Contact {
         String email = "%c%s@%s.com".formatted(name.charAt(0), names[names.length - 1],
                 companyName.replaceAll(" ", "").toLowerCase());
         if (!emails.add(email)) {
-            System.out.println("the email already exists");
+            System.out.println(name + " already has email " + email);
         } else {
-            System.out.println("added");
+            System.out.println(name + " now has email " + email);
         }
     }
 
