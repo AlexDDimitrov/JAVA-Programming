@@ -1,0 +1,11 @@
+Directory Contents: 
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets\icons
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets\icons\index.txt
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets\icons\indexCopy.txt
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets\index.txt
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\assets\indexCopy.txt
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\index.txt
+D:\User\Documents\CodingFiles\JAVA-Programming\Udemy Cource\public\indexCopy.txt
+Generated: 2026-08-21T14:03:03.592516700
